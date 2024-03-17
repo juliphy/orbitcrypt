@@ -1,0 +1,16 @@
+.__pycache__
+.venv
+.env
+__pycache__/config.cpython-312.pyc
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/orbitcrypt.iml
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/orbitcrypt.iml
