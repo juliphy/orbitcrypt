@@ -14,3 +14,7 @@ __pycache__/config.cpython-312.pyc
 .idea/workspace.xml
 .idea/vcs.xml
 .idea/orbitcrypt.iml
+/__pycache__
+/db/__pycache__
+/routers/__pycache__
+/keyboards/__pycache__

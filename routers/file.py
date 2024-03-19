@@ -6,3 +6,4 @@ class KeyType(Enum):
     FILEKEY = "FILEKEY"
     TEXTKEY = "TEXTKEY"
 
+
